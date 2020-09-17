@@ -9,4 +9,4 @@ Hello there,this is just a blog created to share my daliy routines and my educat
 
 Any Quieries:
 
-Feel free to contact through {{site.email}}
+Feel free to contact through <a href="{{site.email}}">{{site.email}}</a>
