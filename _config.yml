@@ -17,7 +17,7 @@ title: JagadeeshRoutines
 email: kotavenkatajagadeesh5@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Daily Blog Posts
-baseurl: "exampleblog" # the subpath of your site, e.g. /blog
+baseurl: "JagadishBlogPosts" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jaga_deesh5555
 github_username:  jagadeesh432
