@@ -10,12 +10,10 @@ This is the last day before returning to college,surrounded by a nostalgic feeli
 Lockdown had provided me much precious time to spend with my family,like frequent quarrels with my sister.I have started to watch many more web series like vampire diaries,sherlock holmes,the originals,the good docter.
 
 
-Tomorrow is the college day,packing up laguage to eluru,back to my room with my buddies,to attend my semister exams,to be fair i don't like to live in eluru,i am a type of lonely person,likes to spend time on my own.
+Tomorrow is the college day,packing up laguage to eluru,back to my room with my buddies,to attend my semister exams,i am a type of lonely person,likes to spend time on my own.
 
 
 A small gap of one month and i will be back to home after mid,semister examinations.
 This lockdown also provided quality time in acadamics,completed fewer courses listed by my college,learned some courses on my personal interest,learned creating github pages,learned HTML5.
 
 
-After examinations,i will develop this site into html5 diary formats.gives more interface and look to site.
-so finally,its time to move to college,looking forward to obtain better grades.
